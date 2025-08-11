@@ -35,6 +35,7 @@ This repository demonstrates data preprocessing, model training, evaluation, and
 - NumPy
 - Pandas
 - Matplotlib / Seaborn
+- Jupyter Notebook
 
 ## 🎯 Learning Outcomes
 - By completing this project, you will be able to:
