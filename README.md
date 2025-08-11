@@ -1,5 +1,4 @@
-# Scikit_Learn
-# Scikit-Learn Project 🚀
+# Scikit-Learn 🚀
 
 A simple and powerful machine learning project built using [Scikit-Learn](https://scikit-learn.org/).  
 This repository demonstrates data preprocessing, model training, evaluation, and prediction using Python's most popular ML library.
