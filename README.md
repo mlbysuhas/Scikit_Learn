@@ -13,9 +13,22 @@ This repository demonstrates data preprocessing, model training, evaluation, and
 - Visualizations using `matplotlib` and `seaborn`
 - Easily extensible for other datasets and algorithms
 
- 🛠️ Technologies Used
-Python 3.x
-Scikit-Learn
-NumPy
-Pandas
-Matplotlib / Seaborn
+
+
+ ##  🛠️ Technologies Used
+ 
+- Python 3.x
+- Scikit-Learn
+- NumPy
+- Pandas
+- Matplotlib / Seaborn
+
+ 
+  
+
+
+
+
+
+
+
